@@ -1,16 +1,19 @@
-# clima
+# Clima cloud
+This is a weather app which can find out the live weather data in the current location as well as the weather for any city you think of !
 
-A new Flutter project.
+## In this app i used :
+* async and await function.
+* Http package,APIs and JSONs.
+* Geolocator package to get live location data for both iOS and Android.
+* flutter_spinkit package to load indicators which animated with flutter.
+* sizer package which makes this app responsive and automatically adapts UI to different screen sizes.
+* Try/catch/throw to handle exceptions.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/86231584/160058338-c96704cc-53e2-409b-994f-b64cf71bdd1e.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Uploading Clima.mp4…
+
